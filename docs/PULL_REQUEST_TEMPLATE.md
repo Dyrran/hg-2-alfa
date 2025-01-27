@@ -10,7 +10,7 @@
 - [ ] Json 
 - [ ] Archivo plano (.txt) 
 - [ ] Javascript 
-- [ ] Markdown / .md
+- [x] Markdown / .md
 
 # Seleccione el tipo de actividad
 - [ ] Feature
