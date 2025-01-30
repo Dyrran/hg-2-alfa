@@ -1,7 +1,7 @@
 # Tipo de usuario
-- [x] Alfa
+- [ ] Alfa
 - [ ] Bravo 
-- [ ] Charlie
+- [x] Charlie
 - [ ] Delta
 - [ ] Echo
 
@@ -13,7 +13,7 @@
 - [x] Markdown / .md
 
 # Seleccione el tipo de actividad
-- [ ] Feature
+- [x] Feature
 - [ ] Changes
 - [ ] Hotfix
 - [ ] Refactor
